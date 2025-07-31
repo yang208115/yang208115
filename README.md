@@ -38,5 +38,6 @@
 <!-- 该统计图表需要您在仓库中配置 GitHub Action (lowlighter/metrics) 才能生成 -->
 [![Metrics](./github-metrics.svg)](#)
 
+</div>
 
 </details>
