@@ -72,7 +72,7 @@
 
 <!-- 请将下面的 "#" 替换为您的真实链接 -->
 [![QQ](https://img.shields.io/badge/QQ%203305587173-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](#)
-[![E-mail](https://img.shields.io/badge/E--mail%20a3305587173@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![E-mail](https://img.shields.io/badge/E--mail%20l__yunyang@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
  
 
 ## 🕒 统计
