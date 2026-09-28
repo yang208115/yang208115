@@ -18,7 +18,7 @@
 
 ## 👋 仪表盘 | Dashboard
 
-- 🎭 **身份定位**：**Full-Stack Developer** / 边缘计算探索者 / [lyuy.top](https://lyuy.top) 博主
+- 🎭 **身份定位**：**Full-Stack Developer** / 边缘计算探索者 / [lyuy.top](https://lyuy.top)
 - 🔭 **正在构建**：高性能Agent架构 & **Wakatime 个人编程数据大屏**
 - 🌱 **核心技术**：`FastAPI` + `React` + `Cloudflare` (极致的端到端体验)
 - 🏠 **个人主页**：[lyuy.top](https://lyuy.top) —— 记录 Coding 过程中的奇思妙想
