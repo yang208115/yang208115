@@ -15,6 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          repositories_skipped: NapCatQQ
           plugin_isocalendar: true
           plugin_languages: true
           plugin_lines: true
